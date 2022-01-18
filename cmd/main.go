@@ -1,13 +1,13 @@
 package main
 
 import (
+	bench "bench_tool"
 	"bufio"
 	"flag"
 	"fmt"
 	"io"
 	"io/ioutil"
 	"os"
-	bench "waf_learn_bench"
 )
 
 func main() {
